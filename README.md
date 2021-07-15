@@ -3,3 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 
+## Technologies
+*HTML
+*CSS
+*Java Script
