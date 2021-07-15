@@ -5,7 +5,7 @@
 
 ## Technologies
 Project is created with:
-* C++
-* OpenCV 4.5.2
-* Visual Studio 2019
+* HTML
+* CSS
+* Java Script
 
